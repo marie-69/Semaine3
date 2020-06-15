@@ -1,0 +1,25 @@
+/*essai commentaire*/
+
+/*h1,p{
+    font-family: sans-serif;
+    font-size: 2em;
+    color: blueviolet;
+}*/
+
+/*Le css s'applique sur le h1 et sur le p*/
+
+p{
+    color: blue;
+}
+
+.para1{
+    color: red;
+}
+
+span{
+    color: yellow;
+}
+
+#test{
+    color: black;
+}
